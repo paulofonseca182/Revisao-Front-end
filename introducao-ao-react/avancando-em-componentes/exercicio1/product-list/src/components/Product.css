@@ -1,0 +1,40 @@
+li {
+    background-color: rgb(209, 233, 225);
+    padding: 10px;
+    width: 250px;
+    height: 330px;
+    margin: 10px;
+    list-style: none;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid burlywood;
+}
+
+.prodcut-data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: burlywood;
+    border-radius: 10px;
+    height: 100px;
+    width: 230px;
+    box-shadow:  5px 5px rgb(119, 117, 117);
+}
+
+p {
+    font-size: 20px;
+    margin: 2px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+
+img {
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid burlywood;
+}
